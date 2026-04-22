@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**SeaFoamDev/SeaFoamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm SeaFoam 👋
 
-Here are some ideas to get you started:
+💻 Learning web development and programming
+🧠 Curious builder who likes making small projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+* HTML / CSS / JavaScript
+* Building small web projects
+
+---
+
+## 📂 Projects
+
+* Harry Potter Fan Site
+* Fluffy Potatoes
+
+---
+
+## 🎯 Goals
+
+* Improve coding skills step by step
+* Build clean, simple projects
+
